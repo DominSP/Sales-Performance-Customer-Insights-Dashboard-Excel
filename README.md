@@ -107,4 +107,4 @@ The dashboard includes interactive slicers that allow users to filter the analys
 4. Use the slicers to filter results by order mode or gender.
 5. Explore the charts and KPIs to investigate sales performance and customer behavior.
 
-## Dominika Schabowska
+Author: Dominika Schabowska
