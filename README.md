@@ -4,8 +4,6 @@
 
 An interactive sales analytics dashboard built in Microsoft Excel to explore sales performance, customer purchasing behavior, product popularity, geographical distribution, customer satisfaction and shipping efficiency.
 
-The dashboard transforms transaction-level data into actionable business insights using KPIs, charts, geographical visualizations, and interactive slicers.
-
 ## 🖥️ Dashboard Preview
 
 ![Excel Sales Dashboard](dashboard.png)
