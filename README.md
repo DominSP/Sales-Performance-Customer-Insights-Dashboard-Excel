@@ -6,7 +6,7 @@ An interactive sales analytics dashboard built in Microsoft Excel to explore sal
 
 ## 🖥️ Dashboard Preview
 
-![Excel Sales Dashboard](dashboard.png)
+![Sales-Performance-Customer-Insights-Dashboard-Excel](dashboard.png)
 
 ## 🎯 Project Objectives
 
